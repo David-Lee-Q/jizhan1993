@@ -1,0 +1,14 @@
+# Local test artifacts (browser profiles may contain personal data)
+test/
+*.log
+
+# Unrelated local reference/source files
+src/
+three.module.js
+几猫国产3A大作_V1.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
